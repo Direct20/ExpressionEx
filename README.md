@@ -1,5 +1,5 @@
 # ExpressionEx
-A simple calculator which supports brackets and various operators.Mainly used Shunting-Yard algorithm. You can also add more operators easily.
+A simple calculator which supports brackets and various operators. Mainly used Shunting-Yard algorithm. You can also add more operators easily.
 
 ## Features
 #### 1.Multiple Operators
