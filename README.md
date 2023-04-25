@@ -42,5 +42,5 @@ There is an instance below.
 3!+4*2%10/(1-5)^2
 Value=6.5
 ```
-
+You can also add more operators easily.
 **P.S. The comments inside the code files are in Chinese, and the file encoding is GB2312. This is just a beginner's assignment. :)**
