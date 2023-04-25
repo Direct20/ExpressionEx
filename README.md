@@ -1,5 +1,5 @@
 # ExpressionEx
-A simple calculator which supports brackets and various operator.
+A simple calculator which supports brackets and various operators.
 
 ## Features
 #### 1.Multiple Operators
