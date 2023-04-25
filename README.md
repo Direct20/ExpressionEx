@@ -30,6 +30,8 @@ A simple calculator which supports brackets and various operator.
 ```
 ## How to Build and Compile
 #### Method 1
-Just add all files to an project in Visual Studio or other IDEs,then compile.
+Just add all files to an project in Visual Studio or other IDEs, then compile.
 #### Method 2
 Use gcc or other compilers compile all files and link the object files.
+
+PS.The comments inside the code file are in Chinese, and the file encoding is GB2312. This is just a beginner's assignment. :)
