@@ -56,4 +56,4 @@ There is an instance below.
 Value=6.5
 ```  
 
-**P.S. The comments inside the code files are in Chinese, and the file encoding is GB2312. This is just a beginner's assignment. :)**
+**P.S. The comments inside the code files are in Chinese, and the file encoding is UTF8. This is just a beginner's assignment. :)**
