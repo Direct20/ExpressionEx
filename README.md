@@ -14,7 +14,8 @@ A simple calculator which supports brackets and various operator.
 ```
 #### 2.Brackets
 #### 3.Negative Sign and Extra Positive Sign
-#### 4.Exception Handling
+#### 4.Float Numbers
+#### 5.Exception Handling
 ```c
 	{1000,"Failed to create the stack."},
 	{1001,"The bracket does not match."},
@@ -33,6 +34,13 @@ A simple calculator which supports brackets and various operator.
 Just add all files to an project in Visual Studio or other IDEs, then compile.
 #### Method 2
 Use gcc or other compilers compile all files and link the object files.
-  
-  
-**PS.The comments inside the code files are in Chinese, and the file encoding is GB2312. This is just a beginner's assignment. :)**
+
+## How to Use
+Enter an expression which only consists of numbers and operators mentioned above, press ENTER.  
+There is an instance below.
+``` txt
+3!+4*2%10/(1-5)^2
+Value=6.5
+```
+
+**P.S. The comments inside the code files are in Chinese, and the file encoding is GB2312. This is just a beginner's assignment. :)**
