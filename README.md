@@ -38,7 +38,7 @@ Use gcc or other compilers compile all files and link the object files.
 ## How to Use
 Enter an expression which only consists of numbers and operators mentioned above, press ENTER.  
 There is an instance below.
-``` txt
+``` c
 3!+4*2%10/(1-5)^2
 Value=6.5
 ```
